@@ -7,6 +7,11 @@
   min-height: 100vh;
 }
 
+.header{
+  
+  text-align:center;
+}
+
 .description {
   display: inherit;
   justify-content: inherit;
